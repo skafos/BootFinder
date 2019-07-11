@@ -1,0 +1,11 @@
+framework module Skafos {
+  umbrella header "Skafos.h"
+
+  export *
+  module * { export * }
+}
+
+module Skafos.Swift {
+    header "Skafos-Swift.h"
+    requires objc
+}
