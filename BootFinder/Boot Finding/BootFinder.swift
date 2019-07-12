@@ -27,7 +27,9 @@ class BootFinder: SimilarImageFinder {
 
   override init() {
     super.init()
-    reloadFromCache()
+    reloadModel { asset, error in
+      print("reloading model: \(asset)k")
+    }
   }
 
   /// Updates with cached files from Skafos if present in the documents directory.
