@@ -9,7 +9,7 @@ We've open-sourced this project to help others in their journey to build ML-powe
 
 The app was built using [Turi Create](https://github.com/apple/turicreate) and [Core ML](https://developer.apple.com/documentation/coreml) powered by the [Skafos.ai](https://www.skafos.ai) platform. 
 
-The boots are sourced from [Zappo's](https://www.zappos.com) and updated models are retrained on Sunday evenings. Once trained, they are ready for delivery to your phone by clicking the "Check for Updates" button in the app. Model training code can be found [here](https://github.com/skafos/boot-finder-model).
+The boots are sourced from [Zappo's](https://www.zappos.com) and updated models are retrained daily. Once trained, they are ready for delivery to your phone by clicking the "Check for Updates" button in the app. Model training code can be found [here](https://github.com/skafos/boot-finder-model).
 
 ## Instructions
 Project Setup Steps:
