@@ -15,6 +15,6 @@ The boots are sourced from [Zappo's](https://www.zappos.com) and updated models 
 
 #### Clone this project and *open the project using the .xcworkspace file. Not doing this will result in errors. If you want to change the model code to suit your purposes, see [here](https://github.com/skafos/boot-finder-model). See Skafos [documentation](docs.skafos.ai) for more information. 
 
-Please let us know how we can make this better by emailing [us](mailto:info@skafos.ai) or visiting our website.
+Please let us know how we can make this better by contacting us at [info@skafos.ai](mailto:info@skafos.ai) or visiting our website.
 
 *Fire it up!*
