@@ -1,5 +1,5 @@
 ## Boot Finder - Use your camera to find boots!
-### Available on the Apple App Store - [Boot Finder](https://apps.apple.com/us/app/boot-finder/id1472790615?ls=1)
+### Available on the Apple App Store: [Boot Finder](https://apps.apple.com/us/app/boot-finder/id1472790615?ls=1)
 
 #### Boot Finder demonstrates the power of using on-device machine learning models to delight users in new and innovative ways. It's private too! Because this model runs on-device, customer photos never leave the phone!
 
