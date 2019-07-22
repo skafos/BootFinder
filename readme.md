@@ -25,6 +25,7 @@ Project Setup Steps:
    * Team
    * Any other settings specific to your app.
 5. If you want to change the model code to suit your purposes, see [here](https://github.com/skafos/boot-finder-model). 
+
 **See Skafos [documentation](docs.skafos.ai) for more information.**
 
 Please let us know how we can make this better by contacting us at [info@skafos.ai](mailto:info@skafos.ai) or visiting our website.
