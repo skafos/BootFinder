@@ -15,7 +15,7 @@ The boots are sourced from [Zappo's](https://www.zappos.com) and updated models 
 Project Setup Steps:
 1. Clone or fork this repository.
 2. In the project directory, run pod install
-3. Open the project workspace (.xcworkspace) **Not doing this will result in errors.**
+3. Open the project workspace (.xcworkspace) | **WARNING: Not doing this will result in errors!**
 4. In your project's settings under General change the following:
    * Display Name
    * Bundle Identifier
