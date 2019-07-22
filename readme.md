@@ -12,13 +12,10 @@ The app was built using [Turi Create](https://github.com/apple/turicreate) and [
 The boots are sourced from [Zappo's](https://www.zappos.com) and updated models are retrained daily and ready for delivery by just clicking the "Check for Updates" button in the app.
 
 ## Instructions
-
-#### Clone this project and *open the project using the .xcworkspace file. Not doing this will result in errors. 
-
 Project Setup Steps:
 1. Clone or fork this repository.
 2. In the project directory, run pod install
-3. Open the project workspace (.xcworkspace)
+3. Open the project workspace (.xcworkspace) **Not doing this will result in errors.**
 4. In your project's settings under General change the following:
    * Display Name
    * Bundle Identifier
