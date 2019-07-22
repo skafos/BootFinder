@@ -11,6 +11,10 @@ The app was built using [Turi Create](https://github.com/apple/turicreate) and [
 
 The boots are sourced from [Zappo's](https://www.zappos.com) and updated models are retrained daily and ready for delivery by just clicking the "Check for Updates" button in the app.
 
+## Instructions
+
+#### Clone this project and *open the project using the .xcworkspace file. Not doing this will result in errors. If you want to change the model code to suit your purposes, see [here](https://github.com/skafos/boot-finder-model). See Skafos [documentation](docs.skafos.ai) for more information. 
+
 Please let us know how we can make this better by emailing [us](mailto:info@skafos.ai) or visiting our website.
 
 *Fire it up!*
