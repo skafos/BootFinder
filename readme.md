@@ -13,7 +13,19 @@ The boots are sourced from [Zappo's](https://www.zappos.com) and updated models 
 
 ## Instructions
 
-#### Clone this project and *open the project using the .xcworkspace file. Not doing this will result in errors. If you want to change the model code to suit your purposes, see [here](https://github.com/skafos/boot-finder-model). See Skafos [documentation](docs.skafos.ai) for more information. 
+#### Clone this project and *open the project using the .xcworkspace file. Not doing this will result in errors. 
+
+Project Setup Steps:
+1. Clone or fork this repository.
+2. In the project directory, run pod install
+3. Open the project workspace (.xcworkspace)
+4. In your project's settings under General change the following:
+   * Display Name
+   * Bundle Identifier
+   * Team
+   * Any other settings specific to your app.
+5. If you want to change the model code to suit your purposes, see [here](https://github.com/skafos/boot-finder-model). 
+**See Skafos [documentation](docs.skafos.ai) for more information.**
 
 Please let us know how we can make this better by contacting us at [info@skafos.ai](mailto:info@skafos.ai) or visiting our website.
 
