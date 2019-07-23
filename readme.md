@@ -3,6 +3,8 @@
 
 #### Boot Finder demonstrates the power of using on-device machine learning models to delight users in new and innovative ways. It's private too! Because this model runs on-device, customer photos never leave the phone!
 
+![](https://skafos.ai/wp-content/uploads/2019/07/Boot-Finder-Image.png)
+
 Apps like Boot Finder represent a whole new customer acquisition channel for retail organizations. Contact us today if you're interested in a similar application for your business!
 
 We've open-sourced this project to help others in their journey to build ML-powered applications. It represents only one of many ML-driven solutions to common business problems.
